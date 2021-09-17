@@ -9,6 +9,7 @@ class PhotoGalleryActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setTheme(R.style.Theme_PhotoGallery)
         setContentView(R.layout.activity_photo_gallery)
 
         //Checking if any fragment already exists .. If not then creating a new one..

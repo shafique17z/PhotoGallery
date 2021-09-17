@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/PhotoGallery/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.23692307692307693" />
+        <entry key="..\:/Android/PhotoGallery/app/src/main/res/drawable/ic_closeshutdoorhandle.xml" value="0.23692307692307693" />
+        <entry key="..\:/Android/PhotoGallery/app/src/main/res/drawable/splash_screen.xml" value="0.23692307692307693" />
         <entry key="..\:/Android/PhotoGallery/app/src/main/res/layout/activity_photo_gallery.xml" value="0.22447916666666667" />
         <entry key="..\:/Android/PhotoGallery/app/src/main/res/layout/fragment_photo_gallery.xml" value="0.33" />
         <entry key="..\:/Android/PhotoGallery/app/src/main/res/layout/list_item_gallery.xml" value="0.22447916666666667" />
